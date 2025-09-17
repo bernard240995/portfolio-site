@@ -1,4 +1,4 @@
-# My Portfolio Website (with Unsplash Images)
+# My Portfolio Website (Stable Unsplash Images)
 
 A simple portfolio project built with **HTML, CSS, and JavaScript**.
 
@@ -8,7 +8,7 @@ A simple portfolio project built with **HTML, CSS, and JavaScript**.
 - Dark mode toggle
 - Smooth scrolling navigation
 - Dynamic footer year
-- Uses **professional free Unsplash images** for profile + projects
+- Uses **stable Unsplash source links** for images (they will never break)
 
 ## 📂 Files
 - `index.html` → main page
