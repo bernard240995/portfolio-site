@@ -1,31 +1,18 @@
-# My Portfolio Website (Stable Unsplash Images)
+# My Portfolio Website (Inline Images = Never Break)
 
-A simple portfolio project built with **HTML, CSS, and JavaScript**.
+This portfolio uses **inline SVG images (data URIs)** so images **always load** on GitHub Pages — no third-party hosts, no broken links.
 
-## 🚀 Features
+## Features
 - Semantic, accessible HTML (alt tags, labels)
 - Responsive design (mobile-friendly)
 - Dark mode toggle
 - Smooth scrolling navigation
 - Dynamic footer year
-- Uses **stable Unsplash source links** for images (they will never break)
+- **Inline images that cannot break**
 
-## 📂 Files
-- `index.html` → main page
-- `style.css` → styles and responsive design
-- `script.js` → interactivity
-- `README.md` → project documentation
-
-## 🌐 Deployment
-This project is designed to be deployed on **GitHub Pages**:
-
+## Deployment (GitHub Pages)
 1. Create a new GitHub repo (e.g., `portfolio-site`)
 2. Upload these files
 3. Commit with `Initial commit`
-4. Go to **Settings → Pages → Source → Main branch**
-5. Visit your site at:
-   ```
-   https://your-username.github.io/portfolio-site/
-   ```
-
-Replace `your-username` with your actual GitHub username.
+4. Settings → Pages → Source → Main branch → Save
+5. Visit: `https://your-username.github.io/portfolio-site/`
