@@ -1,4 +1,4 @@
-# My Portfolio Website (with Images)
+# My Portfolio Website (with Online Images)
 
 A simple portfolio project built with **HTML, CSS, and JavaScript**.
 
@@ -8,20 +8,19 @@ A simple portfolio project built with **HTML, CSS, and JavaScript**.
 - Dark mode toggle
 - Smooth scrolling navigation
 - Dynamic footer year
-- Includes **local images** in `images/` folder
+- Uses **external placeholder images** from placehold.co
 
 ## 📂 Files
 - `index.html` → main page
 - `style.css` → styles and responsive design
 - `script.js` → interactivity
 - `README.md` → project documentation
-- `images/` → folder for profile + project images
 
 ## 🌐 Deployment
 This project is designed to be deployed on **GitHub Pages**:
 
 1. Create a new GitHub repo (e.g., `portfolio-site`)
-2. Upload these files (including the `images/` folder)
+2. Upload these files
 3. Commit with `Initial commit`
 4. Go to **Settings → Pages → Source → Main branch**
 5. Visit your site at:
