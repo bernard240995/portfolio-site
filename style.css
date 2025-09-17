@@ -58,6 +58,12 @@ section {
   border-radius: 5px;
 }
 
+.project-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
 form {
   display: flex;
   flex-direction: column;
